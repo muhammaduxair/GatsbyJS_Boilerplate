@@ -1,0 +1,8 @@
+.HomeBox {
+  padding: 10px;
+  text-align: center;
+}
+.HomeBox > h1 {
+  text-transform: uppercase;
+  font-size: 50px;
+}

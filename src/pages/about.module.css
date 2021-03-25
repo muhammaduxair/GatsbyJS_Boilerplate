@@ -1,0 +1,8 @@
+.about_box {
+  padding: 10px;
+  text-align: center;
+}
+.about_box > h1 {
+  text-transform: uppercase;
+  font-size: 50px;
+}
